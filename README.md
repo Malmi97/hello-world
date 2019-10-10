@@ -26,3 +26,8 @@ int main()		//main function declaration
 printf("Hello World");	//to output the string on a display
 return 0;		//terminating function
 }
+
+hello world in python
+
+my_string = "Hello, World!"
+print(my_string)
